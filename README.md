@@ -9,7 +9,7 @@ The Official implementation of **GRanD-Net** (MLCSA2020), A large scale semantic
 
 ## Code (Tensorflow implementation)
 
-Our [Tensorflow code](/) is based on [RandLA-Net](https://github.com/QingyongHu/RandLA-Net/).  For copyright license, please check code base licenses. 
+Our [Tensorflow code](https://github.com/KiranAkadas/GRanDNet) is based on [RandLA-Net](https://github.com/QingyongHu/RandLA-Net/).  For copyright license, please check code base licenses. 
 
 ## Citation 
 
