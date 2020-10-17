@@ -1,7 +1,7 @@
 # GRanD-Net
 The Official implementation of **GRanD-Net** (MLCSA2020), A large scale semantic segmentation architecture for point clouds
 
-[Kiran Akadas](https://www.linkedin.com/in/kiran-akadas-0a744114a/), [Shankar Gangisetty](https://scholar.google.co.in/citations?user=Rjc90VIAAAAJ&hl=en)
+[Kiran Akadas](https://www.linkedin.com/in/kiran-akadas-0a744114a/), [Shankar Gangisetty](https://sites.google.com/site/shankarsetty/)
 
 ### This code has been tested with Python 3.5, Tensorflow 1.11, CUDA 9.0 and cuDNN 7.4.1 on Ubuntu 16.04
 
@@ -11,14 +11,23 @@ The Official implementation of **GRanD-Net** (MLCSA2020), A large scale semantic
 
 Our [Tensorflow code](/) is based on [RandLA-Net](https://github.com/QingyongHu/RandLA-Net/).  For copyright license, please check code base licenses. 
 
-We took their code base and integrated our approach. Therefore, please, consider also citing or checking their work.
-
 ## Citation 
 
 If you find GRandNet useful, please consider citing:
 
 ```
-Coming soon
+@article{KU202013,
+title = "SHREC 2020: 3D point cloud semantic segmentation for street scenes",
+journal = "Computers & Graphics",
+volume = "93",
+pages = "13 - 24",
+year = "2020",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2020.09.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849320301400",
+author = "Tao Ku and Remco C. Veltkamp and Bas Boom and David Duque-Arias and Santiago Velasco-Forero and Jean-Emmanuel Deschaud and Francois Goulette and Beatriz Marcotegui and Sebastián Ortega and Agustín Trujillo and José Pablo Suárez and José Miguel Santana and Cristian Ramírez and Kiran Akadas and Shankar Gangisetty",
+keywords = "SHREC 2020, 3D point cloud, Semantic segmentation, Benchmark"
+}
 ```
 ## Testing
 
