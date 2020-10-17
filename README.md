@@ -56,8 +56,9 @@ mv (all test_files) original_data
 6) The pre-trained model is stored in the "results" folder
 
 7) To get the predictions for test files: (if required change the path strings in main_Semantic3D_test2.py)
-
+```
 python main_test.py --mode test --gpu 0 --model_path ./results/
+```
 
 8) The results/predictions are now stored in "test" folder.
 
