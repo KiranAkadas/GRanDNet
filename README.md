@@ -37,7 +37,7 @@ sh compile_op.sh
 
 ```
 cd utils/
-python data_prepare.py  		(Change path strings if required)
+python data_prepare.py  		//(Change path strings if required)
 cd ..
 ```
 
