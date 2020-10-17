@@ -5,7 +5,7 @@ The Official implementation of **GRanD-Net** (MLCSA2020), A large scale semantic
 
 ### This code has been tested with Python 3.5, Tensorflow 1.11, CUDA 9.0 and cuDNN 7.4.1 on Ubuntu 16.04
 
-![s](./imgs/architecture.png)
+![s](./imgs/architecture.jpg)
 
 ## Code (Tensorflow implementation)
 
@@ -29,6 +29,7 @@ author = "Tao Ku and Remco C. Veltkamp and Bas Boom and David Duque-Arias and Sa
 keywords = "SHREC 2020, 3D point cloud, Semantic segmentation, Benchmark"
 }
 ```
+
 ## Testing
 
 1)Setup python environment:
@@ -80,3 +81,17 @@ python calculate_miou.py
 ```
 
 10) Results are displayed and stored in log_MIOU.txt
+
+## Results
+
+Quantitative results on [SHREC 2020](https://kutao207.github.io/) dataset:
+
+![s](./imgs/shrec_result.png)
+
+Qualitative results on SHREC 2020:
+
+![s](./imgs/street_scene_1.png)
+
+Quantitative results of different approaches on [S3DIS](https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1) dataset:
+
+![s](./imgs/s3dis_result.png)
