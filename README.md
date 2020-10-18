@@ -1,5 +1,5 @@
-# GRanD-Net
-The Official implementation of **GRanD-Net** (MLCSA2020), A large scale semantic segmentation architecture for point clouds
+# GRanD-Net: 3D Point Cloud Semantic Segmentation for Large-Scale Scene Understanding
+The official implementation of **GRanD-Net**
 
 [Kiran Akadas](https://www.linkedin.com/in/kiran-akadas-0a744114a/), [Shankar Gangisetty](https://sites.google.com/site/shankarsetty/)
 
