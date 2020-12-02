@@ -16,6 +16,16 @@ Our [Tensorflow code](https://github.com/KiranAkadas/GRanDNet) is based on [Rand
 If you find GRandNet useful, please consider citing:
 
 ```
+@InProceedings{Akadas_2020_ACCV,
+    author    = {Akadas, Kiran and Gangisetty, Shankar},
+    title     = {3D Semantic Segmentation for Large-Scale  Scene Understanding},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
+}
+```
+
+```
 @article{KU202013,
 title = "SHREC 2020: 3D point cloud semantic segmentation for street scenes",
 journal = "Computers & Graphics",
@@ -27,16 +37,6 @@ doi = "https://doi.org/10.1016/j.cag.2020.09.006",
 url = "http://www.sciencedirect.com/science/article/pii/S0097849320301400",
 author = "Tao Ku and Remco C. Veltkamp and Bas Boom and David Duque-Arias and Santiago Velasco-Forero and Jean-Emmanuel Deschaud and Francois Goulette and Beatriz Marcotegui and Sebastián Ortega and Agustín Trujillo and José Pablo Suárez and José Miguel Santana and Cristian Ramírez and Kiran Akadas and Shankar Gangisetty",
 keywords = "SHREC 2020, 3D point cloud, Semantic segmentation, Benchmark"
-}
-```
-
-```
-@InProceedings{Akadas_2020_ACCV,
-    author    = {Akadas, Kiran and Gangisetty, Shankar},
-    title     = {3D Semantic Segmentation for Large-Scale  Scene Understanding},
-    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
-    month     = {November},
-    year      = {2020}
 }
 ```
 
