@@ -30,6 +30,16 @@ keywords = "SHREC 2020, 3D point cloud, Semantic segmentation, Benchmark"
 }
 ```
 
+```
+@InProceedings{Akadas_2020_ACCV,
+    author    = {Akadas, Kiran and Gangisetty, Shankar},
+    title     = {3D Semantic Segmentation for Large-Scale  Scene Understanding},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
+}
+```
+
 ## Testing
 
 1)Setup python environment:
